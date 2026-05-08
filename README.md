@@ -57,4 +57,5 @@ program.exe
 - Dynamic Memory Management
 - Copy Constructors
 - Geometry Calculations
+- Exception Handling
 - Testing and Debugging
